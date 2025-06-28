@@ -4,7 +4,7 @@ System & Throughput
 * Total Frames Processed: 587
 * Total Runtime: 30.90 seconds
 * Overall Throughput (FPS): 19.00
-* Average CPU Usage: 70.36%
+* CPU Usage: 4.4%
 * Average Memory Usage: 1372.19 MB
 
 JATE Model Specific Metrics
