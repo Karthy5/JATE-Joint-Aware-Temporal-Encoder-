@@ -1,5 +1,5 @@
-PERFORMANCE & EFFICIENCY EVALUATION REPORT
---- System & Throughput ---
+##PERFORMANCE & EFFICIENCY EVALUATION REPORT
+System & Throughput
 Device Used:              CUDA (Nvidia RTX 4060 laptop)
 Total Frames Processed:   587
 Total Runtime:            30.90 seconds
@@ -7,7 +7,7 @@ Overall Throughput (FPS): 19.00
 Average CPU Usage:        70.36%
 Average Memory Usage:     1372.19 MB
 
---- JATE Model Specific Metrics ---
+JATE Model Specific Metrics
 Model Parameters:         137,667
 Average Inference Latency:1.30 ms
 Fastest Inference:        0.87 ms
