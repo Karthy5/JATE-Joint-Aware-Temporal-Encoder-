@@ -19,6 +19,7 @@ JATE Model Specific Metrics
 * Average Inference Latency: 1.30 ms
 * Fastest Inference: 0.87 ms
 * Slowest Inference: 1.99 ms
+<!--
 * (Based on 21 stable measurements)
-
+-->
 This system demonstrates a practical application of computer vision and machine learning to solve real-world retail challenges, aligning with the objectives outlined in the Intel program.
